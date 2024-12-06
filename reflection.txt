@@ -1,0 +1,12 @@
+@Seungyeon Lee
+
+#Face Generator Assignment
+
+@Reflection
+I wanted to make faces that feels like as if bubbles are popping around all over the canvas. To make this, I tried to use multiple circles to create them and added little circles with random positions. 
+
+While making stars and decorations in the eyes, I was not sure how to make those shapes stay in the shape that I wanted them to and change the scale of them. 
+Also, I couldn't figure out how to circulate the hue of face colors. 
+I would also like to know how to organize the orders of files.
+
+Besides that, I'm pretty satisfied with how it turned out at the end. Looks cool!
