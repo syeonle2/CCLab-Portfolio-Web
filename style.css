@@ -1,0 +1,200 @@
+html{
+    height:100%;
+    margin: 0;
+}
+body{
+    height: 100%;
+    margin: 0;
+    background-color: rgb(255, 251, 240);
+    background-image: url('./background/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.project-bg {
+    background-image: url('./background/bg-lessflowers.png');
+}
+
+a:link{
+    text-decoration: none;
+    color: rgb(255, 75, 15);
+}
+
+a:visited{
+    text-decoration: none;
+    color:rgb(255, 75, 15);
+}
+a:hover{
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 700;
+    font-style: normal;
+    color:green;
+}
+a:active{
+    text-decoration: none;
+}
+
+h1{
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 175pt;
+    text-align: center;
+    color: rgb(255, 75, 15);
+    margin-top: 1.0em;
+    margin-bottom: 0.4em;
+    margin-left:0.6em;
+    margin-right: 1.0em;
+    }
+
+h2{
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40pt;
+    color: rgb(255, 75, 15);
+    text-align: left;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;
+    margin-left: 1.0em;
+    margin-right: 1.0em;
+    }
+
+p{
+    font-family: "freight-big-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: green;
+    font-size: 28pt;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;
+    margin-left: 1.0em;
+    margin-right: 1.0em;    
+    width: 100%;
+    text-align: left;
+}
+
+h3{
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: green;
+    font-size: 24pt;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;
+    margin-left: 2.0em;
+    margin-right: 2.0em;    
+    width: 100%;
+    text-align: center; 
+}
+
+h4{
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(255, 75, 15);
+    font-size: 28pt;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;
+    margin-left: 2.0em;
+    margin-right: 2.0em;    
+    width: 100%;
+    text-align: center; 
+}
+
+h5{
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: green;
+    font-size: 24pt;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;
+    margin-left: 2.0em;
+    margin-right: 2.0em;    
+    width: 100%;
+    text-align: left; 
+}
+
+h6{
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(255, 75, 15);
+    font-size: 24pt;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;
+    margin-left: 2.0em;
+    margin-right: 2.0em;    
+    width: 100%;
+    text-align: left; 
+}
+
+p1{
+    font-family: "freight-big-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: green;
+    font-size: 14pt;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;
+    margin-left: 3.8em;
+    margin-right: 2.0em;    
+    width: 100%;
+    text-align: left; 
+}
+
+h7{
+    font-family: "freight-big-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: green;
+    font-size: 16pt;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;  
+    text-align: center; 
+}
+
+h8{
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: green;
+    font-size: 28pt;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;
+    margin-left: 2.0em;
+    margin-right: 2.0em;    
+    margin-bottom: 2.0em;
+    width: 100%;
+    text-align: center; 
+}
+
+h9{
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(255, 75, 15);
+    font-size: 24pt;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;
+    margin-left: 2.0em;
+    margin-right: 2.0em;    
+    width: 100%;
+    text-align: center; 
+}
+
+.links-container{
+    display: flex;
+    justify-content: space-between;
+    aligh-items: center;
+    gap: 10px;
+}
+
+.links-container h3,
+.links-container h4 {
+    margin: 0;
+}
