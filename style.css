@@ -20,18 +20,18 @@ body{
 
 a:link{
     text-decoration: none;
-    color: rgb(255, 75, 15);
+    color: green;
 }
 
 a:visited{
     text-decoration: none;
-    color:rgb(255, 75, 15);
+    color:green;
 }
 a:hover{
     font-family: "Mountains of Christmas", serif;
     font-weight: 700;
     font-style: normal;
-    color:green;
+    color:rgb(255, 75, 15);
 }
 a:active{
     text-decoration: none;
